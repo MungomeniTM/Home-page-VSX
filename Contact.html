@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - VSXchangeZA</title>
+    <link rel="stylesheet" href="contact.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="services.html">Services</a>
+            <a href="explore.html">Explore</a>
+            <a href="about.html">About</a>
+            <a href="contact.html" class="active">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h1>Contact Us</h1>
+            <p><strong>Email:</strong> <a href="mailto:Mulisa405@gmail.com">Mulisa405@gmail.com</a></p>
+            <p><strong>Phone:</strong> <a href="tel:0797636680">079 763 6680</a></p>
+            <p><strong>Location:</strong> Centurion, South Africa</p>
+        </section>
+
+        <section>
+            <h2>Leave Us a Message</h2>
+            <form action="/send-message" method="POST">
+                <label for="name">Your Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Your Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="problem">Type of Problem / Inquiry:</label>
+                <textarea id="problem" name="problem" rows="4" required></textarea>
+
+                <label for="enroll">If you want to enroll your child in VSXchangeZA vocational skills training, provide details below:</label>
+                <textarea id="enroll" name="enroll" rows="4"></textarea>
+
+                <button type="submit">Send</button>
+            </form>
+        </section>
+    </main>
+</body>
+</html>
