@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services - VSXchangeZA</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="services.html" class="active">Services</a>
+        <a href="explore.html">Explore</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <h1>Our Services</h1>
+        <p>
+            At <strong>VSXchangeZA</strong>, we bridge the gap between **practical skills and opportunity**.  
+            Our services are designed to empower communities, train the next generation, and connect skilled professionals with those in need of their expertise.
+        </p>
+    </section>
+
+    <section>
+        <h2>What We Offer</h2>
+        <ul>
+            <li><strong>Vocational Skills Training</strong> – Hands-on workshops for learners of all ages, with a special focus on early education.</li>
+            <li><strong>Skill Mentorship</strong> – Connect with experienced professionals who can guide you step-by-step.</li>
+            <li><strong>Service Marketplace</strong> – Hire verified experts for projects in carpentry, plumbing, digital work, and more.</li>
+            <li><strong>Community Collaboration</strong> – Join or create local initiatives to solve real-world problems.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Our Approach</h2>
+        <p>
+            We believe in **learning by doing**, backed by real-world mentorship.  
+            Every service is designed to give learners not just skills — but the confidence and creativity to use them in the real world.
+        </p>
+    </section>
+</main>
+</body>
+</html>
