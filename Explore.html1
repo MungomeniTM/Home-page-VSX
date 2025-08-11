@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explore - VSXchangeZA</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="services.html">Services</a>
+        <a href="explore.html" class="active">Explore</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <h1>Explore Opportunities</h1>
+        <p>
+            Whether you're here to **learn a skill**, **hire a professional**, or **collaborate on a community project**,  
+            VSXchangeZA is your gateway to a network of possibilities.
+        </p>
+    </section>
+
+    <section>
+        <h2>Areas to Explore</h2>
+        <div>
+            <h3>Learn New Skills</h3>
+            <p>Access beginner-to-advanced training in various trades — from electrical work to graphic design.</p>
+        </div>
+        <div>
+            <h3>Hire Skilled Experts</h3>
+            <p>Find vetted professionals ready to take on your project, whether it's home improvement or creative work.</p>
+        </div>
+        <div>
+            <h3>Join the Community</h3>
+            <p>Collaborate with others on initiatives that uplift and strengthen local economies.</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>Why Explore With Us?</h2>
+        <p>
+            Because we’re building more than a platform — we’re building a **movement**.  
+            Every skill learned, every service offered, and every project completed brings South Africa closer  
+            to an empowered, self-reliant future.
+        </p>
+    </section>
+</main>
+</body>
+</html>
